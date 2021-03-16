@@ -7,6 +7,7 @@ import MyMobx from './pages/mobx';
 
 function App() {
 	console.log(123)
+	console.log(123123)
   return (
     <MyMobx />
   );

@@ -6,7 +6,7 @@ import { Test } from './pages/Test'
 import MyMobx from './pages/mobx';
 
 function App() {
-
+	console.log(123)
   return (
     <MyMobx />
   );
